@@ -12,14 +12,14 @@
 //     console.log('You guys stay apart')
 // }
 
-let number1 = 2.45
+let number1 = 2.45;
 console.log(Math.round(number1));
-// 2  
+// 2
 console.log(Math.ceil(number1));
 // 3
 console.log(Math.floor(number1));
-// 2 
+// 2
 
 // random number dorkar
-console.log(Math.round(Math.random()*100))
+console.log(Math.round(Math.random() * 100));
 // 22 34 54 jekono kisu
