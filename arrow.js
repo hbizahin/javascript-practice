@@ -5,5 +5,3 @@ function add(a, b) {
 
 const output = add(5, 10);
 console.log(output + 50);
-
-number = 5;
